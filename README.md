@@ -1,6 +1,7 @@
 # Hi, I'm [@bharathnallamothu](https://github.com/bharathnallamothu) 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=bharathnallamothu&theme=dark&show_icons=true&include_all_commits=true&count_private=true&border_radius=12">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathnallamothu&layout=compact)](https://github.com/bharathnallamothu/github-readme-stats)
 <!--
 **bharathnallamothu/bharathnallamothu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
