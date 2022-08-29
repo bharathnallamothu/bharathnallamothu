@@ -1,27 +1,3 @@
-# Hi, I'm [@bharathnallamothu](https://github.com/bharathnallamothu) 👋
-
-<img src="https://github-readme-stats.vercel.app/api?username=bharathnallamothu&theme=dark&show_icons=true&include_all_commits=true&count_private=true&border_radius=12">
-<img src="[https://github-readme-stats.vercel.app/api?username=bharathnallamothu&theme=dark&show_icons=true&include_all_commits=true&count_private=true&border_radius=12](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathnallamothu&layout=compact)">
-<!--
-**bharathnallamothu/bharathnallamothu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 📅 Founder of [CtrlCampus](https://ctrlcampus.com)
-- 📧 Engineering at [CtrlCampus](https://ctrlcampus.com)
-- 📍 Hyderabad, Telangana for now, not forever
-- 🎸 Bass
-- 🎣 Bass
--->
-<h2>Hallo! 👋 Nice to see you 😊</h2>
 
 I'm **Bharath Nallamothu**! A passionate Full Stack Web developer with a focus on user experience. 
 My mission is to build products that users love to use as well as help clients expand their business. 
