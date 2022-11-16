@@ -35,6 +35,8 @@ In my spare time, you can find me writing articles on [DEV](https://dev.to/bhara
 
 ![](https://github-readme-stats.vercel.app/api?username=bharathnallamothu&show_icons=true&theme=radical&line_height=33)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathnallamothu&hide=css,java,ruby,starlark,html,objective-c,php,scss,Dockerfile,python,shell,makefile&theme=radical&line_height=27)
+![](https://stackoverflow.com/users/flair/6033288.json)
+
 
 <h3>When the error is unknown 🍌</h3>
 
