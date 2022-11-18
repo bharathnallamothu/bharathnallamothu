@@ -35,6 +35,7 @@ In my spare time, you can find me writing articles on [DEV](https://dev.to/bhara
 
 ![](https://github-readme-stats.vercel.app/api?username=bharathnallamothu&show_icons=true&theme=radical&line_height=33)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathnallamothu&hide=css,java,ruby,starlark,html,objective-c,php,scss,Dockerfile,python,shell,makefile&theme=radical&line_height=27)
+<br />
 <a href="https://stackoverflow.com/users/10249156/wasitshafi" target="_blank">
 <img alt="StackOverflow"
 src="https://stackoverflow-badge.vercel.app/?userID=10249156" />
@@ -69,7 +70,10 @@ src="https://stackoverflow-badge.vercel.app/?userID=10249156" />
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-
+<br />
+<a href="https://linkedin.com/in/vivek9patel"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:vivek.p9737@gmail.com"><img src="https://img.shields.io/badge/-vivek.p9737@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/vivek9patel"><img src="https://img.shields.io/badge/-@vivek9patel-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <br />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bharathnallamothu)
