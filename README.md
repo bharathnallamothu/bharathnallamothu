@@ -78,9 +78,9 @@ src="https://stackoverflow-badge.vercel.app/?userID=10249156" />
 
 <p>
  <a href="https://www.iambharath.dev"><img src="https://img.shields.io/badge/-bharath.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/bharath-nallamothu-54664188"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:bharath.nallamothu@gmail.com"><img src="https://img.shields.io/badge/-vivek.p9737@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/vivek9patel"><img src="https://img.shields.io/badge/-@vivek9patel-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/bharath-nallamothu-54664188"><img src="https://img.shields.io/badge/-bharath-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:bharath.nallamothu@gmail.com"><img src="https://img.shields.io/badge/-bharath.nallamothu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/vivek9patel"><img src="https://img.shields.io/badge/-@bharath-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 <br />
 
