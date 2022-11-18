@@ -73,6 +73,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=10249156" />
 </div>
 <br />
 ### 🤝🏻 &nbsp;Connect with Me
+<br />
 <p>
 <a href="https://linkedin.com/in/vivek9patel"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:vivek.p9737@gmail.com"><img src="https://img.shields.io/badge/-vivek.p9737@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
