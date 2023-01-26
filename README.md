@@ -37,9 +37,9 @@ In my spare time, you can find me writing articles on [DEV](https://dev.to/bhara
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathnallamothu&hide=css,java,ruby,starlark,html,objective-c,php,scss,Dockerfile,python,shell,makefile&theme=radical&line_height=27)
 <br />
 
-<a href="https://stackoverflow.com/users/10249156/wasitshafi" target="_blank">
+<a href="https://stackoverflow.com/users/6033288/bharath" target="_blank">
 <img alt="StackOverflow"
-src="https://stackoverflow-badge.vercel.app/?userID=10249156" />
+src="https://stackoverflow-badge.vercel.app/?userID=6033288" />
 </a>
 
 
